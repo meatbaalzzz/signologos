@@ -2,16 +2,17 @@
 La palabra hecha signo, Signologos es un traductor web potenciado con IA que tiene como objetivo mejorar la comunicación entre personas a traves de un lenguaje universal como lo es el lenguaje de signos.
 
 <p align="center">
-  <!-- Línea de estado -->
-![Last Commit](https://img.shields.io/github/last-commit/meatbaalzzz/signologos)
-![Today](https://img.shields.io/badge/today-blue)
-![TypeScript](https://img.shields.io/badge/typescript-83.7%25-blue)
-![Languages](https://img.shields.io/badge/languages-4-brightgreen)
+  <img src="https://img.shields.io/github/last-commit/meatbaalzzz/signologos" />
+  <img src="https://img.shields.io/badge/today-blue" />
+  <img src="https://img.shields.io/badge/typescript-83.7%25-blue" />
+  <img src="https://img.shields.io/badge/languages-4-brightgreen" />
+</p>
 
 ---
 
 *Construido con:*
-
+<p align="center">
+  
 <!-- Tecnologías -->
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
