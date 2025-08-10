@@ -17,10 +17,9 @@ La palabra hecha signo, **Signologos** es un traductor web **potenciado con IA**
 ---
 
 
-<p align="center">
-  Construido con
-  
-<!-- Tecnologías -->
+  *Construido con*
+  <p align="center">
+
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
