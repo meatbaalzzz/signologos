@@ -36,7 +36,7 @@ La palabra hecha signo, **Signologos** es un traductor web **potenciado con IA**
 
 ## Concepto
 
-**Simbologos** es un proyecto de código abierto diseñado para simplificar la creación y gestión de símbolos personalizados para diversos proyectos, desde el desarrollo de mapas y aplicaciones hasta la documentación técnica. El objetivo principal es ofrecer una solución robusta y flexible que permita a los desarrolladores y diseñadores integrar una simbología coherente y funcional en sus trabajos.
+**Simbologos** es un proyecto de código abierto diseñado para simplificar la comunicación entre personas de todo el mundo 
 
 
     
