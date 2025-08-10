@@ -1,4 +1,9 @@
-<h1 align="center">🚀 SIGNOLOFOS</h1>
+<h1 align="center">Signologos</h1>
+
+<p align="center">
+  <img src="logo.png" width="200" />
+</p>
+
 
 La palabra hecha signo, Signologos es un traductor web potenciado con IA que tiene como objetivo mejorar la comunicación entre personas a traves de un lenguaje universal como lo es el lenguaje de signos.
 
