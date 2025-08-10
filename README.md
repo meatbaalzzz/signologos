@@ -9,7 +9,6 @@ La palabra hecha signo, **Signologos** es un traductor web **potenciado con IA**
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/meatbaalzzz/signologos" />
-  <img src="https://img.shields.io/badge/today-blue" />
   <img src="https://img.shields.io/badge/typescript-83.7%25-blue" />
   <img src="https://img.shields.io/badge/languages-4-brightgreen" />
 </p>
