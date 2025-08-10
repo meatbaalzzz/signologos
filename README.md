@@ -35,3 +35,29 @@ La palabra hecha signo, **Signologos** es un traductor web **potenciado con IA**
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 </p>
+
+
+## Instalación
+
+Clonar el repositorio
+```bash
+  git clone https://github.com/meatbaalzzz/signologos
+  cd signologos
+```
+
+Instalar dependencias
+```bash
+  npm install react@^18.2.0 react-dom@^18.2.0 react-router-dom@^6.15.0 zustand@^4.4.0 @tanstack/react-query@^4.32.0 @mediapipe/tasks-vision@^0.10.0 @tensorflow/tfjs@^4.10.0 @tensorflow/tfjs-vis@^1.5.1 framer-motion@^10.16.0 gsap@^3.12.0 lottie-web@^5.12.2
+```
+
+## Uso de Simbologos
+
+Una vez instalado, puede usar el proyecto con 
+```bash
+  npm start
+```
+
+Para testeo, ejecute
+```bash
+  npm test
+```
