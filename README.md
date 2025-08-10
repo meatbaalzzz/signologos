@@ -40,11 +40,11 @@ La palabra hecha signo, **Signologos** es un traductor web **potenciado con IA**
 
 
     
-  **Soporte a la comunicación aumentativa y alternativa (CAA)** Ayudar a personas a expresar sus ideas a través de una representación visual.
+  **Soporte a la comunicación aumentativa y alternativa (CAA)** - Ayudar a personas a expresar sus ideas a través de una representación visual.
 
-  **Gestión de metadatos**, Cada símbolo puede ser etiquetado y categorizado con metadatos específicos (por ejemplo, tipo, función, color), lo que permite una búsqueda y filtrado eficientes dentro de la biblioteca.
+  **Gestión de metadatos** - Cada símbolo puede ser etiquetado y categorizado con metadatos específicos (por ejemplo, tipo, función, color), lo que permite una búsqueda y filtrado eficientes dentro de la biblioteca.
 
-   **Interfaz de línea de comandos (CLI)**, Para desarrolladores, se incluye una CLI que permite automatizar tareas como la generación de conjuntos de símbolos o la conversión de formatos.
+   **Interfaz de línea de comandos (CLI)** - Para desarrolladores, se incluye una CLI que permite automatizar tareas como la generación de conjuntos de símbolos o la conversión de formatos.
 
 ## Instalación
 
