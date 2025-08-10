@@ -5,7 +5,7 @@
 </p>
 
 
-La palabra hecha signo, Signologos es un traductor web potenciado con IA que tiene como objetivo mejorar la comunicación entre personas a traves de un lenguaje universal como lo es el lenguaje de signos.
+La palabra hecha signo, **Signologos** es un traductor web **potenciado con IA** que tiene como objetivo mejorar la comunicación entre personas a traves de un **lenguaje universal** como lo es el lenguaje de signos.
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/meatbaalzzz/signologos" />
